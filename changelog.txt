@@ -1,3 +1,10 @@
+CHANGELOG ---- 24/06/26 -------
+
+- Sodium removido da pasta padrão mas agora é uma opção pré-habilitada no launcher pra não haver problema no boostrap.
+
+
+
+
 CHANGELOG ---- 23/06/26 -------
 
 LAUNCHER CRIADO, hehehehehe >:3
