@@ -1,3 +1,18 @@
+CHANGELOG ---- 25/06/26 -------
+
+BETA 1.2.0 LANÇADA!!! Download: https://github.com/FixBROfficial/Tomate-Launcher-8/releases/tag/Beta120
+(Para quem tem acesso, pra quem não tem, olhe o grupo de beta testers :3)
+
+Mudanças:
+
+- Suporte pra mods externos adicionado, adicione mods externos em ".paradise/modsexternos/"
+  e eles não serão apagados.
+- Mods da pasta mods e pasta "fancymenu" de config são apagados e reinstalados logo depois para poupar todo
+  mundo de apagar manualmente.
+
+
+
+
 CHANGELOG ---- 24/06/26 -------
 
 - Sodium e Sodium extra removidos da pasta padrão mas agora é uma opção pré-habilitada no launcher
